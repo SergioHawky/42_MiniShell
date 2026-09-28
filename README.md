@@ -1,4 +1,4 @@
-*This project has been created as part of the 42 curriculum by seilkiv.*
+*This project has been created as part of the 42 curriculum by seilkiv and shi-wudu.*
 
 # Minishell
 
